@@ -1,0 +1,18 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "The Cloud Bureau"
+
+theme = "hugo-theme-nix"
+
+[params]
+  Name = "The Cloud Bureau"
+  HeaderUsername = "cloud"
+  HeaderHostname = "bureau"
+  About = "Delivering the latest in Cloud Computing"
+  ProfilePicture = "hat.jpg"
+
+[menu]
+  [[menu.header]]
+    name = "posts"
+    weight = 0
+    url = "/posts"
