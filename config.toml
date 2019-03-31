@@ -8,7 +8,7 @@ theme = "hugo-theme-nix"
   Name = "The Cloud Bureau"
   HeaderUsername = "cloud"
   HeaderHostname = "bureau"
-  About = "Delivering the latest in Cloud Computing"
+  About = "Delivering the latest in Cloud Computing."
   ProfilePicture = "hat.jpg"
 
 [menu]
